@@ -1,3 +1,16 @@
+VanHack Front-end test
+===================
+**How to run it:**
+
+ 1. Open a terminal on the root folder.
+ 2. Run `npm install`.
+ 3. Run `bower install`.
+ 4. Run `gulp run`.
+
+Make sure you have Node.js installed on your path.
+
+Cheers!
+
 # Newsletter2go fe-test
 Estimated time: ~4h  
 As a follow-up to our talk, here the test that we've prepared. There's no rush (from our side), so take your time finishing it and try to stay as close as possible to the specification below.
