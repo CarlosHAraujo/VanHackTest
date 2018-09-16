@@ -1,5 +1,8 @@
 VanHack Front-end test
 ===================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/CarlosHAraujo/VanHackTest.svg)](https://greenkeeper.io/)
+
 **How to run it:**
 
  1. Open a terminal on the root folder.
